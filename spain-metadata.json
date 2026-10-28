@@ -1,0 +1,20 @@
+{
+  "name": "Pray For Spain",
+  "symbol": "SPAIN",
+  "description": "https://cdn.dexscreener.com/cms/images/kXNcCUnSc1PBaZ_E?width=600&height=200&fit=crop&quality=95&format=auto",
+  "image": "https://cdn.dexscreener.com/cms/images/7tiyQRN2_c45c2GV?width=800&height=800&quality=95&format=auto",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.dexscreener.com/cms/images/7tiyQRN2_c45c2GV?width=800&height=800&quality=95&format=auto",
+        "type": "image"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://x.com/search?q=spain&src=typeahead_click",
+    "twitter": "https://x.com/Zeeko__Dev/status/2115386331891171674"
+  },
+  "external_url": "https://x.com/search?q=spain&src=typeahead_click"
+}
